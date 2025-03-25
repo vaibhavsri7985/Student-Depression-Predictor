@@ -9,7 +9,7 @@ The Student Depression Predictor is a machine learning project aimed at predicti
 ✅ PowerTransformer Application to normalize numerical values.
 ✅ Multiple Machine Learning Models including Logistic Regression, Decision Tree, Random Forest, AdaBoost, and XGBoost.
 ✅ Hyperparameter Tuning for optimizing model performance.
-✅ Final Model Selection based on accuracy, precision, recall, and F1-score.
+✅ Final Model Selection based on performance matrix.
 
 📂 Dataset
 The dataset contains multiple student-related attributes that contribute to the prediction of depression. Key features include:
